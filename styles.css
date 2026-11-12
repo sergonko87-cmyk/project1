@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid cornflowerblue;
+    padding:5px ;
+}
+header a{text-decoration:none ;background-color: rgb(255, 255, 255);}
+
+h1{color:rgba(12, 6, 6, 0.5);font-size: 50px;}
+
+footer, footer p{border:3px solid gray;}
+footer{padding: 10px;}
+nav a{padding:8px 20px ;color:gray;text-decoration: none;}
